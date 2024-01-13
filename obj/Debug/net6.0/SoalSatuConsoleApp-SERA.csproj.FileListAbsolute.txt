@@ -1,0 +1,14 @@
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.AssemblyInfoInputs.cache
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.AssemblyInfo.cs
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.csproj.CoreCompileInputs.cache
+F:\SERA\SoalSatuConsoleApp-SERA\bin\Debug\net6.0\SoalSatuConsoleApp-SERA.exe
+F:\SERA\SoalSatuConsoleApp-SERA\bin\Debug\net6.0\SoalSatuConsoleApp-SERA.deps.json
+F:\SERA\SoalSatuConsoleApp-SERA\bin\Debug\net6.0\SoalSatuConsoleApp-SERA.runtimeconfig.json
+F:\SERA\SoalSatuConsoleApp-SERA\bin\Debug\net6.0\SoalSatuConsoleApp-SERA.dll
+F:\SERA\SoalSatuConsoleApp-SERA\bin\Debug\net6.0\SoalSatuConsoleApp-SERA.pdb
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.dll
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\refint\SoalSatuConsoleApp-SERA.dll
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.pdb
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\SoalSatuConsoleApp-SERA.genruntimeconfig.cache
+F:\SERA\SoalSatuConsoleApp-SERA\obj\Debug\net6.0\ref\SoalSatuConsoleApp-SERA.dll
